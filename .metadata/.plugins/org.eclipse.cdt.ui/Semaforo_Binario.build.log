@@ -1,0 +1,10 @@
+14:34:19 **** Incremental Build of configuration Debug for project Semaforo_Binario ****
+make -j4 all 
+arm-none-eabi-size   Semaforo_Binario.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18904	    124	  18124	  37152	   9120	Semaforo_Binario.elf
+Finished building: default.size.stdout
+ 
+
+14:34:20 Build Finished. 0 errors, 0 warnings. (took 969ms)
+
